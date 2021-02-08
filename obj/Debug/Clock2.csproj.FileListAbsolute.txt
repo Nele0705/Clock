@@ -1,0 +1,10 @@
+C:\Users\Nele\source\repos\Clock2\Clock2\obj\Debug\Clock2.csprojAssemblyReference.cache
+C:\Users\Nele\source\repos\Clock2\Clock2\obj\Debug\Clock2.Clock.resources
+C:\Users\Nele\source\repos\Clock2\Clock2\obj\Debug\Clock2.Properties.Resources.resources
+C:\Users\Nele\source\repos\Clock2\Clock2\obj\Debug\Clock2.csproj.GenerateResource.cache
+C:\Users\Nele\source\repos\Clock2\Clock2\obj\Debug\Clock2.csproj.CoreCompileInputs.cache
+C:\Users\Nele\source\repos\Clock2\Clock2\bin\Debug\Clock2.exe.config
+C:\Users\Nele\source\repos\Clock2\Clock2\bin\Debug\Clock2.exe
+C:\Users\Nele\source\repos\Clock2\Clock2\bin\Debug\Clock2.pdb
+C:\Users\Nele\source\repos\Clock2\Clock2\obj\Debug\Clock2.exe
+C:\Users\Nele\source\repos\Clock2\Clock2\obj\Debug\Clock2.pdb
